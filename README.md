@@ -1,2 +1,2 @@
 # neural_recommender_notes
-my own notes on neural recommender system papers
+My own notes on neural recommender system papers, inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes)
