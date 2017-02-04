@@ -1,5 +1,5 @@
 # neural_recommender_notes
-My own notes on neural recommender system papers, inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes) and [Dong Yeop Kang's notes](https://github.com/dykang/neurallanguage-notes).
+My own notes on neural recommender system papers, inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes) and [DongYeop Kang's notes](https://github.com/dykang/neurallanguage-notes).
 
 #### 2017-01
 
