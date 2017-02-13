@@ -10,6 +10,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Deep Neural Networks for YouTube Recommendations [[RecSys16](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)]
 - Restricted Boltzmann Machines for Collaborative Filtering [[ICML07](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)]
 - Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
+- Improving Content-based and Hybrid Music Recommendation using Deep Learning [[Multimedia](http://dl.acm.org/citation.cfm?id=2654940)]
 
 
 #### General recommender system
