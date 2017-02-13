@@ -2,6 +2,7 @@
 My own notes on neural recommender system papers, inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes) and [DongYeop Kang's notes](https://github.com/dykang/neurallanguage-notes).
 
 #### Neural recommender system
+- A Survey and Critique of Deep Learning on Recommender Systems [[UIC](http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf)]
 - Deep content-based music recommendation [[NIPS13](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf)]
 - Spotify's notes on recommending music with deep learning [[Web](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 - Collaborative Knowledge Base Embedding for Recommender Systems [[KDD16](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems/667/)]
