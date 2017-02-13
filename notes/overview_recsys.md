@@ -19,3 +19,5 @@
   - Think of it simply as a recommendation made based on similarity values. (Pearson correlation, Cosine similarity, etc)
 - Model-based CF
   - Recommendation based on machine learning or data mining models. (e.g. Naive Bayesian, Clustering, MF, PMF - the best single model so far)
+- Content-based recommender system
+  - Use user profiles, item information, reviews (Collaborative topic modeling)
