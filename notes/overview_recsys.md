@@ -13,3 +13,9 @@
   - Co-occurrence item recommendation
   
 **Hybrid methods include more than one of the above methods.**
+
+#### Method Description
+- Memory-based CF
+  - Think of it simply as a recommendation made based on similarity values. (Pearson correlation, Cosine similarity, etc)
+- Model-based CF
+  - Recommendation based on machine learning or data mining models. (e.g. Naive Bayesian, Clustering, MF, PMF - the best single model so far)
