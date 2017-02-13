@@ -16,8 +16,6 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 
 - Multiverse Recommendation: N-dimensional Tensor Factorization for Context-aware Collaborative Filtering [[RecSys10](https://xamat.github.io//pubs/karatzoglu-recsys-2010.pdf)]
 - Towards Conversational Recommender Systems [[KDD16](http://www.kdd.org/kdd2016/subtopic/view/towards-conversational-recommender-systems)]
-
-##### Survey paper
 - Research-Paper Recommender Systems:A Literature Survey [[DigitalLib](http://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20(preprint).pdf)]
 - Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions [[TKDE](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
 - Hybrid Recommender Systems:Survey and Experiments[[Springer](http://josquin.cs.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
