@@ -10,4 +10,4 @@
   - Applying the utility function to the items and determine its rank for user.
   - Knowledge-based recommendation
   
-* Hybrid methods include more than one of the above methods.
+** Hybrid methods include more than one of the above methods.**
