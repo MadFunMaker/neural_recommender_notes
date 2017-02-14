@@ -7,6 +7,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Spotify's notes on recommending music with deep learning [[Web](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 - Collaborative Knowledge Base Embedding for Recommender Systems [[KDD16](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems/667/)]
 - Collaborative Deep Learning for Recommender Systems [[KDD15](http://dl.acm.org/citation.cfm?id=2783273)]
+- Collaborative topic modeling for recommending scientific articles [[KDD11](http://dl.acm.org/citation.cfm?id=2020480)]
 - Deep Neural Networks for YouTube Recommendations [[RecSys16](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)]
 - Restricted Boltzmann Machines for Collaborative Filtering [[ICML07](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)]
 - Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
