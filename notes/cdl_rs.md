@@ -8,9 +8,8 @@
 - The existing solutions are not tightly coupled methods (the extracted features from auxilary information interact with the learning from the ratings) 
 
 #### Solution
-- Hierarchical bayesian model called Collaborative Deep Learning (CDL), which tightly couples deep representation learning for the content information and collaborative filtering for the ratings (feedback) matrix, allowing two-way interaction between the two. Although they present CDL as using SDAE for its feature learning component, CDL is actually a more general framework which can also admit other deep learning models such as deep Boltzmann machines, recurrent neural networks, and convolutional neural networks.
-
-**(I don't understand the details of this algorithm yet.)**
+- Hierarchical bayesian model called Collaborative Deep Learning (CDL), which tightly couples deep representation learning for the content information and collaborative filtering for the ratings (feedback) matrix, allowing two-way interaction between the two. Although they present CDL as using SDAE for its feature learning component, CDL is actually a more general framework which can also admit other deep learning models such as deep Boltzmann machines, recurrent neural networks, and convolutional neural networks. 
+  **(I don't understand the details of this algorithm yet.)**
 
 #### Result
 - Datasets : citeulike-a, citeulike-t, and Netflix
