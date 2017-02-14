@@ -15,4 +15,4 @@ their RBMs share weights connected to the corresponding visible unit
 
 ### Thoughts
 - The proposed RBM methods consist of 2 layers, not deep enough to capture hierarchical latent factors of users and items and more accurately modeling ratings. Then, is the deep generative model tractable with dimensionality reduction?
-- Autoencoder model with pretrained RBM may work as well. (But, is it bettern than batch normalization?) 
+- Autoencoder model with pretrained RBM may work as well. (But, is it better than batch normalization?) 
