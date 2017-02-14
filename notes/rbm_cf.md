@@ -1,7 +1,7 @@
 ## [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 
 #### Problem
-- That of Collaborative filtering (CF)
+- Collaborative filtering (CF)
 
 #### Why is this important and difficult?
 - Most of the exising approaches to CF can't handle very large dataset. (What is the exact size of this untreatable large dataset?)
