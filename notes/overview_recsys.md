@@ -3,6 +3,8 @@
 #### Category
 - Collaborative Filtering (CF)
   - Memory-based CF (= neighborhood method)
+    - Item oriented approach
+    - User oriented approach
   - Model-based CF (= latent factor model)
 - Content-based recommender system
 - Miscellaneous recommender systems
