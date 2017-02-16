@@ -31,3 +31,4 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - MusicMood: Predicting the mood of music from song lyrics using machine learning [[arXiv](https://arxiv.org/pdf/1611.00138.pdf)] [[slideshare](http://www.slideshare.net/SebastianRaschka/musicmood-20140912)] 
 - Identifying the Emotional Polarity of Song Lyrics through Natural Language Processing [[NLP](https://people.eecs.berkeley.edu/~schasins/papers/identifyingEmotionalPolarity.pdf)]
 - LYRIC TEXT MINING IN MUSIC MOOD CLASSIFICATION [[ISMIR09](http://www.ismir2009.ismir.net/proceedings/PS3-4.pdf)]
+- 10 Data Art Projects by Spotify Analysts & Designers [[Spotify](https://insights.spotify.com/us/2016/09/29/10-data-art-projects/)]
