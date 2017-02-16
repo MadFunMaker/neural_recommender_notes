@@ -23,7 +23,6 @@
   - Proved to show better performance than content-based model
 - Disadvantage
   - Cold start problem (when there is no usage data, either rating or implicit data)
-  
 - Memory-based CF
   - Think of it simply as a recommendation made based on similarity values. (Pearson correlation, Cosine similarity, etc)
 - Model-based CF
@@ -41,5 +40,3 @@
 - Disadvantage
   - Not domain free
   - Proved to show worse performance than CF
-
-#### Matrix Factorization Techniques for RS
