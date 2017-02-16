@@ -23,7 +23,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Research-Paper Recommender Systems:A Literature Survey [[DigitalLib](http://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20(preprint).pdf)]
 - Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions [[TKDE](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
 - Hybrid Recommender Systems:Survey and Experiments[[Springer](http://josquin.cs.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
-
+- MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS [[Computer](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)]
 
 
 #### Music recommender system
