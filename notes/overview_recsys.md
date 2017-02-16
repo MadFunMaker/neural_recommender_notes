@@ -32,6 +32,7 @@
     - ALS is preferable in two cases, that are 1) when parallelization is needed and 2) when systems are centered on implicit data.
     - 1) Parallelization: In ALS, the system computes each qi independently of the other item factors and computes each pu independently of the other user factors.
     - 2) Implicit data: the training set cannot be considered sparse, looping over each single training case—as gradient descent does—would not be practical.
+  - Adding biases
 
 #### Content-based methods
 - Use user profiles, item information, reviews (Collaborative topic modeling)
