@@ -34,7 +34,7 @@
     - 2) Implicit data: the training set cannot be considered sparse, looping over each single training case—as gradient descent does—would not be practical.
   - Adding biases
     - Much of the observed variation in rating values is due to effects associated with either users or items, known as biases or intercepts, independent of any interactions. 
-    - $ rˆui = µ + bi + bu + qiTp$
+    - $r^^_ui = µ + bi + bu + qiTp$
 
 #### Content-based methods
 - Use user profiles, item information, reviews (Collaborative topic modeling)
