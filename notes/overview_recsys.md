@@ -32,7 +32,7 @@
     - ALS is preferable in two cases, that are 1) when parallelization is needed and 2) when systems are centered on implicit data.
     - 1) Parallelization: In ALS, the system computes each qi independently of the other item factors and computes each pu independently of the other user factors.
     - 2) Implicit data: the training set cannot be considered sparse, looping over each single training case—as gradient descent does—would not be practical.
-  - Adding biases
+  - Biases
     - Much of the observed variation in rating values is due to effects associated with either users or items, known as biases or intercepts, independent of any interactions. 
     - $\hat{r_{ui}} = µ + b_i + b_u + q^{T}_{i}p_u$
   - Additional Input sources
@@ -40,6 +40,12 @@
     - Use implicit feedback (For user-item interaction)
     - Use user information such as demographics (For user-associated attribute)
     - Integrate above two sources to represent new user latent factor $p'_u$
+  - Temporal dyanmics
+    - Item biases, user biases, user preference $p_u$ vary over time
+    - New item gets attention, users change their baseline predictor, and user preference changes from some to others.
+  - Confidence model (used in implicit rating)
+    - Implicit feedback is less certain than explicit feedback, also hard to quantify.
+    - Confidence model gives less weight to less meaningful observations.
     
 #### Content-based methods
 - Use user profiles, item information, reviews (Collaborative topic modeling)
