@@ -40,6 +40,7 @@
     - Use implicit feedback (For user-item interaction)
     - Use user information such as demographics (For user-associated attribute)
     - Integrate above two sources to represent new user latent factor $p'_u$
+    
 #### Content-based methods
 - Use user profiles, item information, reviews (Collaborative topic modeling)
 - Advantage
