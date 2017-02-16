@@ -35,7 +35,7 @@
   - Adding biases
     - Much of the observed variation in rating values is due to effects associated with either users or items, known as biases or intercepts, independent of any interactions. 
     - $\hat{r_{ui}} = µ + b_i + b_u + q^{T}_{i}p_u$
-
+    
 #### Content-based methods
 - Use user profiles, item information, reviews (Collaborative topic modeling)
 - Advantage
