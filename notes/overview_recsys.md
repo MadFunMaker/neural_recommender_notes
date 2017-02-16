@@ -1,9 +1,9 @@
-## Overview of recommender system 
+## Overview of Recommender System (RS)
 
 #### Category
 - Collaborative Filtering (CF)
-  - Memory-based CF
-  - Model-based CF
+  - Memory-based CF (= neighborhood method)
+  - Model-based CF (= latent factor model)
 - Content-based recommender system
 - Miscellaneous recommender systems
   - Demographic information about user
@@ -21,3 +21,5 @@
   - Recommendation based on machine learning or data mining models. (e.g. Naive Bayesian, Clustering, MF, PMF - the best single model so far)
 - Content-based recommender system
   - Use user profiles, item information, reviews (Collaborative topic modeling)
+
+#### Matrix Factorization Techniques for RS
