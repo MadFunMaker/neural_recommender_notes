@@ -26,7 +26,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS [[Computer](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)]
 
 
-#### Music recommender system
+#### Music recommender system (biased to sentiment analysis)
 
 - MusicMood: Predicting the mood of music from song lyrics using machine learning [[arXiv](https://arxiv.org/pdf/1611.00138.pdf)] [[slideshare](http://www.slideshare.net/SebastianRaschka/musicmood-20140912)] 
 - Identifying the Emotional Polarity of Song Lyrics through Natural Language Processing [[NLP](https://people.eecs.berkeley.edu/~schasins/papers/identifyingEmotionalPolarity.pdf)]
