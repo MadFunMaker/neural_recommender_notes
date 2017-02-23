@@ -16,8 +16,8 @@
   - 
 - Lyrics to Emotion
   - LYRIC TEXT MINING IN MUSIC MOOD CLASSIFICATION [[ISMIR09](http://www.ismir2009.ismir.net/proceedings/PS3-4.pdf)]
-    - 18 mood categories, Execellent pre-processing, 
-    - Dataset: AMC Datasets
+    - 18 mood categories, Execellent pre-processing, LIBSVM as a classifier
+    - Dataset: In-house audio tracks, lyrics from LyricWiki.org
   - MusicMood: Predicting the mood of music from song lyrics using machine learning [[arXiv](https://arxiv.org/pdf/1611.00138.pdf)] [[slideshare](http://www.slideshare.net/SebastianRaschka/musicmood-20140912)] 
     - Use Various Naive Bayes model
     - Dataset: MSD (emotion labeled by the author)
