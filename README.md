@@ -27,16 +27,17 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 #### Music recommender system
 
 ##### MediaEval 13~16 Emotion in Music Task
-- 1000 songs for emotional analysis of music [[CrowdMM13](https://ibug.doc.ic.ac.uk/media/uploads/documents/cmm13-soleymani.pdf)]
-- MUSIC EMOTION RECOGNITION: A STATE OF THE ART REVIEW [[ISMIR10](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7740&rep=rep1&type=pdf)]
-- Machine Recognition of Music Emotion: A Review [[TIST12](http://dl.acm.org/citation.cfm?id=2168754)]
-- Music Emotion Recognition: From Content- to Context-Based Models [[Springer13](http://link.springer.com/chapter/10.1007/978-3-642-41248-6_13)]
 - Emotion in Music Task:MediaEval 2016 [[sideshare](https://www.slideshare.net/multimediaeval/mediaeval-2016-emotion-in-music-task-lessons-learned)]
 - ON-LINE CONTINUOUS-TIME MUSIC MOOD REGRESSION WITH DEEP RECURRENT NEURAL NETWORKS [[ICASSP14](https://pdfs.semanticscholar.org/3170/2755180f023cb6d3ee275fa0a355dd681fb1.pdf)]
 - Automatically Estimating Emotion in Music with Deep Long-Short Term Memory Recurrent Neural Networks [[MediaEval16](https://pdfs.semanticscholar.org/e338/2ed926d6a8facadfcbfc091c53e08e371948.pdf)]
 - Emotion in Music task: lessons learned (BLSTM-RNN) [[MediaEval16](http://ceur-ws.org/Vol-1739/MediaEval_2016_paper_10.pdf)]
 
 ##### Music sentiment analysis
+- 1000 songs for emotional analysis of music [[CrowdMM13](https://ibug.doc.ic.ac.uk/media/uploads/documents/cmm13-soleymani.pdf)]
+- MUSIC EMOTION RECOGNITION: A STATE OF THE ART REVIEW [[ISMIR10](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7740&rep=rep1&type=pdf)]
+- Machine Recognition of Music Emotion: A Review [[TIST12](http://dl.acm.org/citation.cfm?id=2168754)]
+- Music Emotion Recognition: From Content- to Context-Based Models [[Springer13](http://link.springer.com/chapter/10.1007/978-3-642-41248-6_13)]
+
 - Music Mood Classification via Deep Belief Network [[ICDM15](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7395810)]
 - MusicMood: Predicting the mood of music from song lyrics using machine learning [[arXiv](https://arxiv.org/pdf/1611.00138.pdf)] [[slideshare](http://www.slideshare.net/SebastianRaschka/musicmood-20140912)] 
 - Identifying the Emotional Polarity of Song Lyrics through Natural Language Processing [[NLP](https://people.eecs.berkeley.edu/~schasins/papers/identifyingEmotionalPolarity.pdf)]
