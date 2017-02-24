@@ -47,6 +47,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Multimodal Music Mood Classification using Audio and Lyrics [[ICMLA08](http://ieeexplore.ieee.org/abstract/document/4725050/?part=1)]
 
 ##### Music recommendation based on deep learning
+- Feature Learning and Deep Architectures: New Directions for Music Informatics [[Springer13](http://yann.lecun.com/exdb/publis/pdf/humphrey-jiis-13.pdf)]
 - Improving Content-based and Hybrid Music Recommendation using Deep Learning [[Multimedia](http://dl.acm.org/citation.cfm?id=2654940)]
 - Spotify's notes on recommending music with deep learning [[Web](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 - 10 Data Art Projects by Spotify Analysts & Designers [[Spotify](https://insights.spotify.com/us/2016/09/29/10-data-art-projects/)]
