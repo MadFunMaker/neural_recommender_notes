@@ -26,7 +26,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 
 #### Music recommender system
 
-###### MediaEval 13~16 Emotion in Music Task
+##### MediaEval 13~16 Emotion in Music Task
 - 1000 songs for emotional analysis of music [[CrowdMM13](https://ibug.doc.ic.ac.uk/media/uploads/documents/cmm13-soleymani.pdf)]
 - MUSIC EMOTION RECOGNITION: A STATE OF THE ART REVIEW [[ISMIR10](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7740&rep=rep1&type=pdf)]
 - Machine Recognition of Music Emotion: A Review [[TIST12](http://dl.acm.org/citation.cfm?id=2168754)]
@@ -36,7 +36,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Automatically Estimating Emotion in Music with Deep Long-Short Term Memory Recurrent Neural Networks [[MediaEval16](https://pdfs.semanticscholar.org/e338/2ed926d6a8facadfcbfc091c53e08e371948.pdf)]
 - Emotion in Music task: lessons learned (BLSTM-RNN) [[MediaEval16](http://ceur-ws.org/Vol-1739/MediaEval_2016_paper_10.pdf)]
 
-###### Music sentiment analysis
+##### Music sentiment analysis
 - Music Mood Classification via Deep Belief Network [[ICDM15](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7395810)]
 - MusicMood: Predicting the mood of music from song lyrics using machine learning [[arXiv](https://arxiv.org/pdf/1611.00138.pdf)] [[slideshare](http://www.slideshare.net/SebastianRaschka/musicmood-20140912)] 
 - Identifying the Emotional Polarity of Song Lyrics through Natural Language Processing [[NLP](https://people.eecs.berkeley.edu/~schasins/papers/identifyingEmotionalPolarity.pdf)]
@@ -45,7 +45,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Improving Mood Classification in Music Digital Libraries by Combining Lyrics and Audio [[JCDL10](http://dl.acm.org/citation.cfm?id=1816146)]
 - Multimodal Music Mood Classification using Audio and Lyrics [[ICMLA08](http://ieeexplore.ieee.org/abstract/document/4725050/?part=1)]
 
-###### Music recommendation based on deep learning
+##### Music recommendation based on deep learning
 - Improving Content-based and Hybrid Music Recommendation using Deep Learning [[Multimedia](http://dl.acm.org/citation.cfm?id=2654940)]
 - Spotify's notes on recommending music with deep learning [[Web](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 - 10 Data Art Projects by Spotify Analysts & Designers [[Spotify](https://insights.spotify.com/us/2016/09/29/10-data-art-projects/)]
