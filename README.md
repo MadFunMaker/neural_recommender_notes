@@ -48,6 +48,8 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 
 ##### Music generation models
 - Modelling High-Dimensional Sequences with LSTM-RTRBM:Application to Polyphonic Music Generation [[IJCAI15](http://ijcai.org/Proceedings/15/Papers/582.pdf)]
+- SONG FROM PI: A MUSICALLY PLAUSIBLE NETWORK FOR POP MUSIC GENERATION [[Arxiv](https://arxiv.org/pdf/1611.03477.pdf)]
+- A Unit Selection Methodology for Music Generation Using Deep Neural Networks [[Arxiv](https://arxiv.org/pdf/1612.03789.pdf)]
 
 ##### Music recommendation based on deep learning
 - Feature Learning and Deep Architectures: New Directions for Music Informatics [[Springer13](http://yann.lecun.com/exdb/publis/pdf/humphrey-jiis-13.pdf)]
