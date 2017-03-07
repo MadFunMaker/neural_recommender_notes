@@ -46,6 +46,9 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Improving Mood Classification in Music Digital Libraries by Combining Lyrics and Audio [[JCDL10](http://dl.acm.org/citation.cfm?id=1816146)]
 - Multimodal Music Mood Classification using Audio and Lyrics [[ICMLA08](http://ieeexplore.ieee.org/abstract/document/4725050/?part=1)]
 
+##### Music generation models
+- Modelling High-Dimensional Sequences with LSTM-RTRBM:Application to Polyphonic Music Generation [[IJCAI15](http://ijcai.org/Proceedings/15/Papers/582.pdf)]
+
 ##### Music recommendation based on deep learning
 - Feature Learning and Deep Architectures: New Directions for Music Informatics [[Springer13](http://yann.lecun.com/exdb/publis/pdf/humphrey-jiis-13.pdf)]
 - Improving Content-based and Hybrid Music Recommendation using Deep Learning [[Multimedia](http://dl.acm.org/citation.cfm?id=2654940)]
