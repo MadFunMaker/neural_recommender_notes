@@ -11,6 +11,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Collaborative topic modeling for recommending scientific articles [[KDD11](http://dl.acm.org/citation.cfm?id=2020480)]
 - Deep Neural Networks for YouTube Recommendations [[RecSys16](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)]
 - Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
+- Recommender Systems with Deep Learning [[Web](https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/)]
 
 
 #### General recommender system
