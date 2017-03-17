@@ -25,8 +25,8 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Hybrid Recommender Systems:Survey and Experiments[[Springer](http://josquin.cs.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
 - MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS [[Computer](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)]
 
-
 #### Music recommender system
+- Music Recommendation and Discovery [[Slideshare](https://www.slideshare.net/plamere/music-recommendation-and-discovery/6-recsys_2011_music_recommendation_and)] [[Book](mtg.upf.edu/system/files/publications/PhD_ocelma.pdf)]
 
 ##### MediaEval 13~16 Emotion in Music Task
 - Emotion in Music Task:MediaEval 2016 [[sideshare](https://www.slideshare.net/multimediaeval/mediaeval-2016-emotion-in-music-task-lessons-learned)]
