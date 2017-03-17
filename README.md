@@ -12,6 +12,7 @@ My own notes on neural recommender system papers, inspired by [Denny Britz's not
 - Deep Neural Networks for YouTube Recommendations [[RecSys16](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)]
 - Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
 - Recommender Systems with Deep Learning [[Web](https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/)]
+- RecSys’ 16 Workshop on Deep Learning for Recommender Systems (DLRS) [[RecSys16](http://delivery.acm.org/10.1145/2960000/2959202/p415-karatzoglou.pdf?ip=111.91.137.77&id=2959202&acc=ACTIVE%20SERVICE&key=58C7DD92F91E3631%2E58C7DD92F91E3631%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=912276446&CFTOKEN=95598579&__acm__=1489654278_41573e8accf3fb0172ee7afdedf89f39)]
 
 
 #### General recommender system
